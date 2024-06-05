@@ -1,0 +1,8 @@
+python -m spacy init fill-config base_config.cfg config.cfg
+
+python train.py
+python train.py
+
+ب
+python spacy_fa.py
+
